@@ -1,6 +1,10 @@
 # Policy Drift Agent — Hindsight Cloud Persistent Memory
 
 > **"An AI agent that learns when real-world operations repeatedly deviate from written company procedures, distinguishes legitimate exceptions from harmful drift, and helps organizations improve their procedures using accumulated experience."**
+> A decision-support system that identifies deviations between
+written organizational policies and real-world decisions,
+while using Hindsight persistent memory to learn from
+previous organizational experiences.
 
 Production-ready AI hackathon application powered by **Hindsight Cloud Persistent Memory** (Vectorize.io) and **Groq LLM Reasoning**.
 
@@ -183,6 +187,14 @@ Navigate to **"Demo Journey"** in the header navigation:
    - The agent recognizes a **Recurring Exception Pattern** and recommends approving alternative verification!
 
 ---
+## Features
+
+- Policy analysis
+- Operational drift detection
+- Hindsight persistent memory
+- Historical case recall
+- Evidence-based recommendations
+- Zero-memory vs post-memory learning demo
 
 ## 🧪 Verification & Acceptance Tests
 
@@ -192,3 +204,8 @@ Navigate to **"Demo Journey"** in the header navigation:
    - Save a human decision on a case. The experience is posted directly to Hindsight Cloud.
 3. **Test 3 — Backend Restart Persistence**:
    - Restart the backend server. Open **Memory Timeline**. Retained experiences remain visible because they are fetched live from Hindsight Cloud, proving state is not local process memory.
+
+
+##Outputs
+<img width="1080" height="513" alt="image" src="https://github.com/user-attachments/assets/ea0112b4-8ae6-4e69-8af6-bcd131a52ac3" />
+
