@@ -1,6 +1,7 @@
 # Policy Drift Agent — Hindsight Cloud Persistent Memory
 
 > **"An AI agent that learns when real-world operations repeatedly deviate from written company procedures, distinguishes legitimate exceptions from harmful drift, and helps organizations improve their procedures using accumulated experience."**
+
 > A decision-support system that identifies deviations between
 written organizational policies and real-world decisions,
 while using Hindsight persistent memory to learn from
