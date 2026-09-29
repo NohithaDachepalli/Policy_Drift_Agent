@@ -206,6 +206,16 @@ Navigate to **"Demo Journey"** in the header navigation:
    - Restart the backend server. Open **Memory Timeline**. Retained experiences remain visible because they are fetched live from Hindsight Cloud, proving state is not local process memory.
 
 
-##Outputs
+## Outputs
 <img width="1080" height="513" alt="image" src="https://github.com/user-attachments/assets/ea0112b4-8ae6-4e69-8af6-bcd131a52ac3" />
+<img width="1080" height="517" alt="image" src="https://github.com/user-attachments/assets/74adcdea-0298-46e5-a27b-e87b2c933662" />
+<img width="1080" height="513" alt="image" src="https://github.com/user-attachments/assets/7513709d-67e2-46d5-af2f-5325b752ab79" />
+<img width="1080" height="511" alt="image" src="https://github.com/user-attachments/assets/bd6395db-40f6-420f-a47b-ca60a87e5ce5" />
+<img width="1080" height="507" alt="image" src="https://github.com/user-attachments/assets/4083b554-30e0-42cc-b5a1-f1f60a92ebd2" />
+<img width="1080" height="507" alt="image" src="https://github.com/user-attachments/assets/ab64ab0b-403f-4720-8da0-76bcc212926a" />
+
+
+
+
+
 
